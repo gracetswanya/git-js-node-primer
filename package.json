@@ -1,0 +1,16 @@
+{
+  "name": "git-js-node-primer",
+  "version": "1.0.0",
+  "description": "Javascript and Version Control Primer in NodeJs Environment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(https://github.com/gracetswanya/git-js-node-primer.git)"
+  },
+  "author": "Grace Tswanya",
+  "license": "MIT"
+}
